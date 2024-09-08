@@ -1,0 +1,17 @@
+C:\UssdPaymentPush\obj\Debug\net8.0\UssdPaymentPush.csproj.AssemblyReference.cache
+C:\UssdPaymentPush\obj\Debug\net8.0\UssdPaymentPush.GeneratedMSBuildEditorConfig.editorconfig
+C:\UssdPaymentPush\obj\Debug\net8.0\UssdPaymentPush.AssemblyInfoInputs.cache
+C:\UssdPaymentPush\obj\Debug\net8.0\UssdPaymentPush.AssemblyInfo.cs
+C:\UssdPaymentPush\obj\Debug\net8.0\UssdPaymentPush.csproj.CoreCompileInputs.cache
+C:\UssdPaymentPush\bin\Debug\net8.0\UssdPaymentPush.exe
+C:\UssdPaymentPush\bin\Debug\net8.0\UssdPaymentPush.deps.json
+C:\UssdPaymentPush\bin\Debug\net8.0\UssdPaymentPush.runtimeconfig.json
+C:\UssdPaymentPush\bin\Debug\net8.0\UssdPaymentPush.dll
+C:\UssdPaymentPush\bin\Debug\net8.0\UssdPaymentPush.pdb
+C:\UssdPaymentPush\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\UssdPaymentPush\obj\Debug\net8.0\UssdPaym.E0CDADED.Up2Date
+C:\UssdPaymentPush\obj\Debug\net8.0\UssdPaymentPush.dll
+C:\UssdPaymentPush\obj\Debug\net8.0\refint\UssdPaymentPush.dll
+C:\UssdPaymentPush\obj\Debug\net8.0\UssdPaymentPush.pdb
+C:\UssdPaymentPush\obj\Debug\net8.0\UssdPaymentPush.genruntimeconfig.cache
+C:\UssdPaymentPush\obj\Debug\net8.0\ref\UssdPaymentPush.dll

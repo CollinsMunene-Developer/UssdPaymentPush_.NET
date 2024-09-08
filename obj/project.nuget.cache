@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jL6LCl2YkOM=",
+  "success": true,
+  "projectFilePath": "C:\\UssdPaymentPush\\UssdPaymentPush.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\COLLINS_DEV\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
